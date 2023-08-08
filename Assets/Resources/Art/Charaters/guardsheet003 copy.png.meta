@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 309437981cca842e689f3d6fa41d4ff2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guardsheet003 copy_0
+    21300002: guardsheet003 copy_1
+    21300004: guardsheet003 copy_2
+    21300006: guardsheet003 copy_3
+    21300008: guardsheet003 copy_4
+    21300010: guardsheet003 copy_5
+    21300012: guardsheet003 copy_6
+    21300014: guardsheet003 copy_7
+    21300016: guardsheet003 copy_8
+    21300018: guardsheet003 copy_9
+    21300020: guardsheet003 copy_10
+    21300022: guardsheet003 copy_11
+    21300024: guardsheet003 copy_12
+    21300026: guardsheet003 copy_13
+    21300028: guardsheet003 copy_14
+    21300030: guardsheet003 copy_15
+    21300032: guardsheet003 copy_16
+    21300034: guardsheet003 copy_17
+    21300036: guardsheet003 copy_18
+    21300038: guardsheet003 copy_19
+    21300040: guardsheet003 copy_20
+    21300042: guardsheet003 copy_21
+    21300044: guardsheet003 copy_22
+    21300046: guardsheet003 copy_23
+    21300048: guardsheet003 copy_24
+    21300050: guardsheet003 copy_25
+    21300052: guardsheet003 copy_26
+    21300054: guardsheet003 copy_27
+    21300056: guardsheet003 copy_28
+    21300058: guardsheet003 copy_29
+    21300060: guardsheet003 copy_30
+    21300062: guardsheet003 copy_31
+    21300064: guardsheet003 copy_32
+    21300066: guardsheet003 copy_33
+    21300068: guardsheet003 copy_34
+    21300070: guardsheet003 copy_35
+    21300072: guardsheet003 copy_36
+    21300074: guardsheet003 copy_37
+    21300076: guardsheet003 copy_38
+    21300078: guardsheet003 copy_39
+    21300080: guardsheet003 copy_40
+    21300082: guardsheet003 copy_41
+    21300084: guardsheet003 copy_42
+    21300086: guardsheet003 copy_43
+    21300088: guardsheet003 copy_44
+    21300090: guardsheet003 copy_45
+    21300092: guardsheet003 copy_46
+    21300094: guardsheet003 copy_47
+    21300096: guardsheet003 copy_48
+    21300098: guardsheet003 copy_49
+    21300100: guardsheet003 copy_50
+    21300102: guardsheet003 copy_51
+    21300104: guardsheet003 copy_52
+    21300106: guardsheet003 copy_53
+    21300108: guardsheet003 copy_54
+    21300110: guardsheet003 copy_55
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guardsheet003 copy_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 641
+        width: 153
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 641
+        width: 153
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 641
+        width: 153
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 641
+        width: 153
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 641
+        width: 153
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_5
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 641
+        width: 153
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 513
+        width: 153
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 513
+        width: 155
+        height: 121
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 513
+        width: 172
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 513
+        width: 185
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 513
+        width: 190
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 385
+        width: 190
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 385
+        width: 190
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 385
+        width: 190
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 385
+        width: 190
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 385
+        width: 190
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_16
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 385
+        width: 190
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 190
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 185
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 257
+        width: 172
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 257
+        width: 170
+        height: 120
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 257
+        width: 167
+        height: 121
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_22
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 257
+        width: 166
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 257
+        width: 168
+        height: 127
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_24
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 257
+        width: 168
+        height: 127
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_25
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 257
+        width: 166
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_26
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 257
+        width: 167
+        height: 121
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_27
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 257
+        width: 162
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_28
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 257
+        width: 155
+        height: 121
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 190
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 128
+        width: 185
+        height: 119
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_31
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 128
+        width: 180
+        height: 120
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_32
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 131
+        width: 191
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 139
+        width: 191
+        height: 111
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 136
+        width: 179
+        height: 113
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_35
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 131
+        width: 171
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_36
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 129
+        width: 170
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_37
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 128
+        width: 181
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 153
+        height: 124
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 153
+        height: 124
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 166
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_41
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1
+        width: 179
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_42
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1
+        width: 189
+        height: 124
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1
+        width: 192
+        height: 124
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_44
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1
+        width: 190
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_45
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1
+        width: 178
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_46
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1
+        width: 165
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 153
+        height: 124
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_48
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1
+        width: 154
+        height: 124
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_49
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 2
+        width: 157
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_50
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2
+        width: 157
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_51
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2
+        width: 157
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_52
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1
+        width: 157
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_53
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 1
+        width: 158
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_54
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 0
+        width: 158
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardsheet003 copy_55
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 0
+        width: 153
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

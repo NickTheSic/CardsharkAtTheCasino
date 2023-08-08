@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4caf696a87cd8444b8f5412b30e5be70, type: 3}
+  m_Name: Jump
+  m_EditorClassIdentifier: 
+  name: Jump
+  description: Now you can press Space to jump
+  upgrade: 4
+  DeckNumber: 0
+  artwork: {fileID: 0}
+  animation: {fileID: 9100000, guid: 6952756bda33b47419020c8b9f12032b, type: 2}
